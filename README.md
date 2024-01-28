@@ -21,3 +21,11 @@ This project focuses on building a system for recognizing sign language gestures
    ```bash
    git clone https://github.com/youssefelmasry2/Arabic-Alphabets-Sign-Language-ML
    cd sign_ML
+### data set used
+
+https://data.mendeley.com/datasets/y7pckrw6z2/1
+
+
+### Licence
+
+CC BY 4.0
