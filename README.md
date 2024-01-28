@@ -1,5 +1,8 @@
 # Arabic Alphabets Sign Language Recognition
 
+![Arabic Sign Language Model](https://example.com/path/to/your/image.jpg)
+
+
 ## Overview
 
 This project focuses on building a system for recognizing sign language gestures corresponding to Arabic alphabets. The goal is to develop a tool that aids communication for individuals using sign language to express Arabic characters.
