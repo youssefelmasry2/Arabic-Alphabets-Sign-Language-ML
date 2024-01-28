@@ -1,6 +1,6 @@
 # Arabic Alphabets Sign Language Recognition
 
-![Arabic Sign Language Model](https://example.com/path/to/your/image.jpg)
+![Arabic Sign Language Model](https://github.com/youssefelmasry2/Arabic-Alphabets-Sign-Language-ML/blob/main/Signs_32_New.png)
 
 
 ## Overview
